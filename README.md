@@ -19,6 +19,8 @@ More details are in [HERE](https://blog.csdn.net/BenJamin_Blue/article/details/9
 
 <div align=center><img width="480" height="640" src="https://i.loli.net/2019/07/22/5d35b93450f1046484.png"/></div>
 
+## Feedbacks
+If you get any problems or find any bugs, don't hesitate to comment on GitHub or make a pull request !
 
 ## Contributors
 The project is mainly created by Yihe Wu (BenJamin Blue) in NJUST, June 2019.  
