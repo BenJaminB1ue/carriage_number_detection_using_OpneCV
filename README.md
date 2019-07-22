@@ -16,9 +16,9 @@ The cut characters are obtained by the x-y projection method.
 
 After template matching, the recognized characters are printed on the original image to complete the character recognition process at last.
 
-![detection and recognization result](https://i.loli.net/2019/07/22/5d35b933d793d89189.png) 
-<div align=center><img width="150" height="150" src="https://i.loli.net/2019/07/22/5d35b933d793d89189.png"/></div>
+<div align=center><img width="300" height="400" src="https://i.loli.net/2019/07/22/5d35b933d793d89189.png"/></div>
 
-![detection and recognization result](https://i.loli.net/2019/07/22/5d35b93450f1046484.png) 
+
+<div align=center><img width="300" height="400" src="https://i.loli.net/2019/07/22/5d35b93450f1046484.png"/></div>
 
 More details are in [HERE](https://blog.csdn.net/BenJamin_Blue/article/details/96892971) 
