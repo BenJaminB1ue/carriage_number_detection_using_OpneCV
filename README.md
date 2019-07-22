@@ -22,3 +22,20 @@ After template matching, the recognized characters are printed on the original i
 <div align=center><img width="480" height="640" src="https://i.loli.net/2019/07/22/5d35b93450f1046484.png"/></div>
 
 More details are in [HERE](https://blog.csdn.net/BenJamin_Blue/article/details/96892971) 
+
+## Contributors
+The project is mainly created by Yihe Wu (BenJamin Blue) in NJUST, June 2019.
+
+Thanks Zehua Zhao, Hao Zhang, Yaobin Mao and bloggers in CSDN for giving helpful supports.
+
+## Citation
+Please cite these papers in your publications if it helps your research:
+
+@inproceedings{wu2019carriage_number_detection_using_OpneCV,
+  author = {BenJamin Blue},
+  title = {carriage_number_detection_using_OpneCV},
+  year = {2019}
+}
+
+## License
+The project is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at 750166816@qq.com. We will send the detail agreement to you.
