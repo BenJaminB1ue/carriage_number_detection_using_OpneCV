@@ -33,8 +33,7 @@ Thanks Zehua Zhao, Hao Zhang, Yaobin Mao and bloggers in CSDN for giving helpful
 Please cite these papers in your publications if it helps your research:
 
 ```
-@inproceedings{wu2019carriage_number_detection_using_OpneCV,
-
+@inproceedings{wu2019carriage_number_detection_using_OpneCV,\n
   author = {BenJamin Blue},
   
   title = {carriage_number_detection_using_OpneCV},
