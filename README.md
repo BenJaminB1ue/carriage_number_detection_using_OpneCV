@@ -39,4 +39,4 @@ Please cite these papers in your publications if it helps your research:
 
 ## License
 The project is freely available for free non-commercial use, and may be redistributed under these conditions.   
-For commercial queries, please drop an e-mail at 750166816@qq.com. We will send the detail agreement to you.
+For commercial queries, please drop an e-mail at yihewu@njust.edu.cn. We will send the detail agreement to you.
